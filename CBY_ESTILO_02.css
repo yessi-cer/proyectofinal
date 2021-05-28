@@ -1,0 +1,36 @@
+body{
+
+	background-color:#FFFFFF;
+	margin: 0 10%;
+	font-family: graphik;
+	text-align: center;
+	font-weight: light;
+	weight: 1280;
+}
+
+
+h1{
+	color:black;
+	text-align: center;
+	font-family: 'Wire One', sans-serif;
+}
+
+h1{
+	text-align: center;
+ 	border-top: 2px solid #800000;
+}
+
+h2{
+	color:black;
+	text-align: center;
+	font-family: 'Wire One', sans-serif;
+}
+
+body{
+Background-image: url(https://image.freepik.com/free-photo/texture-wall-background_158595-7196.jpg);
+}
+p{
+	color:black;
+	text-align: center;
+	margin-right: 5px;
+}
